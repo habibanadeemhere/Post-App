@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:ital,wght@0,100..900;1,100..900&family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Barrio&family=Dancing+Script:wght@400..700&family=Delius&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Fleur+De+Leah&family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&family=Henny+Penny&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Pacifico&family=Quicksand:wght@300..700&family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&family=Rouge+Script&family=Story+Script&display=swap');
+
+
+.img1 {
+    height: 50px;
+}
+
+.navbar {
+    background-color: #DBE1ED;
+}
+
+
+.navbar-brand {
+    font-size: 1.6rem;
+     font-family: "Barrio", system-ui;
+
+}
+
+
+.btn1 {
+ padding: 10px 40px;
+    background-color: #DBE1ED;
+    color: black;
+}
+
+
+.btn1:hover {
+background-color: #DBE1ED;
+    transition: 1s;
+    transform: scale(1.1);
+    color: black;
+}
+
+
+.bg-img {
+    height: 70px;
+    width: 70px;
+}
+
+
+
+
+.btn2 {
+ padding: 10px 40px;
+    background-color: #E57373;
+    color: black;
+}
+
+
+.btn2:hover {
+  background-color: #E57373;
+    transition: 1s;
+    transform: scale(1.1);
+    color: black;
+}
+
+
+.card {
+  color: white; 
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  overflow: hidden; 
+  min-height: 150px; 
+}
+
+
+.form-label {
+    color: black;
+}
+
+
+
+.bg-img {
+  width: 80px; 
+  height: 80px;
+  cursor: pointer;
+  border: 2px solid transparent; 
+  border-radius: 5px; 
+  transition: border 0.3s;
+}
+
+.bg-img.selectedImg {
+  border: 5px solid black; 
+}
+
+
+
+.for {
+  background-image: url("https://png.pngtree.com/background/20250713/original/pngtree-simple-background-frame-vector-picture-image_16721290.jpg");
+  background-size: cover;
+  position: fixed;
+
+}
+
+
+body {
+    background-image: url("https://img.freepik.com/free-vector/background-template-with-blue-flowers_1308-70193.jpg");
+background-repeat: no-repeat;
+   background-attachment: fixed;
+background-color: #DBE1ED;
+
+}
+
+
+
+
+
+
+
